@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">digital system</string>
+    <string-array name="module">
+        <item>Decimal</item>
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+
+</resources>
